@@ -14,7 +14,7 @@ class GroceryData {
       'description': 'Organic, locally grown apples',
       'price': 1.99,
       'imageUrl':
-          'https://www.jiomart.com/images/product/original/590000452/sharad-seedless-grapes-1-kg-product-images-o590000452-p590116963-0-202203171004.jpg',
+          'https://www.fourwindsgrowers.com/cdn/shop/products/blackmonukka_1024x1024.jpg?v=1538780984',
     },
     {
       'id': '3',
@@ -29,7 +29,7 @@ class GroceryData {
       'description': 'Farm-fresh brown eggs',
       'price': 3.99,
       'imageUrl':
-          'https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg',
+          'https://cimg0.ibsrv.net/cimg/www.fitday.com/693x350_85-1/728/Eggs_000001615195_Small-108728.jpg',
     },
   ];
 }
